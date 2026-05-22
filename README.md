@@ -1,3 +1,5 @@
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](README.zh.md)
+
 # Operation Analysis
 
 Custom agent skills for business operations analysis. Compatible with both [Accio Work](https://www.accio.com/work/doc) and [Codex](https://codex.alibaba-inc.com/) AI agents.
