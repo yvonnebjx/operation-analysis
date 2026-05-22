@@ -1,8 +1,6 @@
-# Operation Analysis — Accio Skills
+# Operation Analysis
 
-Custom agent skills for business operations analysis, built for [Accio Work](https://www.accio.com/work/doc) AI agents.
-
-A collection of custom skills built for [Accio Work](https://www.accio.com/work/doc) AI agents.
+Custom agent skills for business operations analysis. Compatible with both [Accio Work](https://www.accio.com/work/doc) and [Codex](https://codex.alibaba-inc.com/) AI agents.
 
 ## Skills
 
@@ -30,7 +28,7 @@ Cross-border e-commerce operating diagnosis tool. Performs budget-vs-actual and 
 
 ## Usage
 
-These skills are designed to be loaded into an Accio Work agent. See [Accio Work documentation](https://www.accio.com/work/doc) for how to install skills.
+These skills can be loaded into either an [Accio Work](https://www.accio.com/work/doc) or [Codex](https://codex.alibaba-inc.com/) agent. Check the respective platform documentation for installation instructions.
 
 ## Development
 
