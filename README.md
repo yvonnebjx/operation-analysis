@@ -1,4 +1,6 @@
-# Accio Skills — Custom Agent Skills
+# Operation Analysis — Accio Skills
+
+Custom agent skills for business operations analysis, built for [Accio Work](https://www.accio.com/work/doc) AI agents.
 
 A collection of custom skills built for [Accio Work](https://www.accio.com/work/doc) AI agents.
 
