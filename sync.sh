@@ -15,7 +15,7 @@ REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
 echo "Syncing from: $AGENT_SKILLS_DIR"
 echo "Syncing to:   $REPO_DIR"
 
-SKILLS=("financial-report-visualizer" "category-management-matrix")
+SKILLS=("financial-report-visualizer" "category-management-matrix" "cbec-operating-analysis")
 
 for skill in "${SKILLS[@]}"; do
     src="$AGENT_SKILLS_DIR/$skill"

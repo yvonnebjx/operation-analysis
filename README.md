@@ -20,6 +20,14 @@ Analyze e-commerce management reports (Excel) to perform YTD YoY analysis and ca
 - **SKILL.md** — Workflow instructions for the agent
 - **scripts/analyze_mgmt_report.py** — Excel analysis and chart generation script
 
+### cbec-operating-analysis
+
+Cross-border e-commerce operating diagnosis tool. Performs budget-vs-actual and YoY analysis across Amazon, Walmart, TikTok Shop, DTC, and similar channels. Maps user-specific fields, generates reusable evidence slices, detects abnormal conditions, attributes root causes, and produces meeting-ready reports with charts.
+
+- **SKILL.md** — Workflow instructions for the agent
+- **scripts/** — Python scripts for report generation (`generate_operating_report.py`, `generate_charts.py`, `generate_evidence.py`, `ensure_environment.py`, `run_paths.py`)
+- **references/** — Domain knowledge files (analysis methodology, channel knowledge, field mapping, seasonal knowledge, prompt templates, etc.)
+
 ## Usage
 
 These skills are designed to be loaded into an Accio Work agent. See [Accio Work documentation](https://www.accio.com/work/doc) for how to install skills.
