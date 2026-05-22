@@ -46,6 +46,10 @@ git push
 
 ## 反馈
 
-如有问题或建议，扫描下方二维码联系作者：
+如有问题或建议，扫描下方二维码联系作者或加入社群：
 
-![contact](https://sc01.alicdn.com/kf/A5ea0ea4d06f54c7c90f9d094ef241b7ds.jpg)
+<p align="left">
+  <img src="https://sc01.alicdn.com/kf/A5ea0ea4d06f54c7c90f9d094ef241b7ds.jpg" width="200" alt="作者二维码">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://sc01.alicdn.com/kf/Ae07fe088ff2a492999115376e4716ae7f.jpg" width="200" alt="社群二维码">
+</p>

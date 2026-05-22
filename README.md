@@ -46,6 +46,10 @@ A `sync.sh` script is also provided to sync the latest versions from an Accio ag
 
 ## Feedback
 
-If you encounter any issues or have suggestions, scan the QR code below to contact the author:
+If you encounter any issues or have suggestions, scan the QR codes below to contact the author or join the group:
 
-![contact](https://sc01.alicdn.com/kf/A5ea0ea4d06f54c7c90f9d094ef241b7ds.jpg)
+<p align="left">
+  <img src="https://sc01.alicdn.com/kf/A5ea0ea4d06f54c7c90f9d094ef241b7ds.jpg" width="200" alt="Author QR">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://sc01.alicdn.com/kf/Ae07fe088ff2a492999115376e4716ae7f.jpg" width="200" alt="Group QR">
+</p>
