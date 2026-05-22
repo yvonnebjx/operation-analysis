@@ -43,3 +43,9 @@ git push
 ```
 
 A `sync.sh` script is also provided to sync the latest versions from an Accio agent-core installation into this repo.
+
+## Feedback
+
+If you encounter any issues or have suggestions, scan the QR code below to contact the author:
+
+![contact](https://sc01.alicdn.com/kf/A5ea0ea4d06f54c7c90f9d094ef241b7ds.jpg)
