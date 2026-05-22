@@ -49,7 +49,7 @@ A `sync.sh` script is also provided to sync the latest versions from an Accio ag
 If you encounter any issues or have suggestions, scan the QR codes below to contact the author or join the group:
 
 <p align="left">
-  <img src="https://sc01.alicdn.com/kf/A0c738530f86a463cba1e23ef1f9ad8e1N.jpg" width="160" alt="Belle老师">
+  <img src="https://sc01.alicdn.com/kf/A80f86e33c537448d9bf007b973362818X.jpg" width="160" alt="Belle老师">
   &nbsp;&nbsp;&nbsp;
   <img src="https://sc01.alicdn.com/kf/Ae07fe088ff2a492999115376e4716ae7f.jpg" width="160" alt="Group QR">
 </p>

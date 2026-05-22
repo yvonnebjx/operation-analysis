@@ -49,7 +49,7 @@ git push
 如有问题或建议，扫描下方二维码联系作者或加入社群：
 
 <p align="left">
-  <img src="https://sc01.alicdn.com/kf/A0c738530f86a463cba1e23ef1f9ad8e1N.jpg" width="160" alt="Belle老师">
+  <img src="https://sc01.alicdn.com/kf/A80f86e33c537448d9bf007b973362818X.jpg" width="160" alt="Belle老师">
   &nbsp;&nbsp;&nbsp;
   <img src="https://sc01.alicdn.com/kf/Ae07fe088ff2a492999115376e4716ae7f.jpg" width="160" alt="社群二维码">
 </p>
